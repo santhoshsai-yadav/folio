@@ -1,0 +1,9 @@
+@media (maxwidth:576px) {
+    .indexs{
+        display: flex;
+        flex-direction: column;
+    }
+    .known p{
+        text-align: left;
+    }
+}
